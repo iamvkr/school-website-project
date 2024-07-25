@@ -11,7 +11,7 @@ const Navbar = () => {
       {/* top nav section */}
       <div className='min-h-24 bg-slate-200 w-full flex rounded-none  items-center px-4 py-2 md:flex-row flex-col justify-center md:justify-normal'>
         <div className='logo'>
-          <img src="/LOGO.png" alt="school logo" className='h-16 m-2 rounded' />
+          <img src="LOGO.png" alt="school logo" className='h-16 m-2 rounded' />
         </div>
         <div className="brand text-2xl font-bold w-auto">
           <div className='text-center'>{SchoolName}</div>
